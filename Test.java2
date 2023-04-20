@@ -1,0 +1,7 @@
+class Test{
+pubilc  static void main(String[] args){
+int b=20;
+c=30;
+System.out.println(b);
+}
+}
