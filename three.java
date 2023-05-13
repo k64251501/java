@@ -1,5 +1,5 @@
 class three{
-	public static aviod main(string [] args){
-		system.out.println("hello karthik")
+	public static void main(String [] args){
+		System.out.println("hello karthik");
 	}
 }
